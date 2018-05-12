@@ -1,0 +1,30 @@
+_repo: Two-Christmas-Celebrations_17006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parker, Theodore
+    alias: Blodgett, Levi
+    birthdate: 1810
+    deathdate: 1860
+    gutenberg_agent_id: '7088'
+    url: http://www.gutenberg.org/2009/agents/7088
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Parker
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas'
+- !lcc 'PS'
+- !lcsh 'Jesus Christ'
+title: Two Christmas Celebrations
+url: http://www.gutenberg.org/ebooks/17006
